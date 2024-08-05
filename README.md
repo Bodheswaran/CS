@@ -13,7 +13,7 @@ _**Catalog Scanner has been ported to Python3**. The Python3.12 codebase is avai
 ## Requirements
 - **Python 3.12**
 - Windows
--kali Linux
+- kali Linux
 
 ## Installation
 
