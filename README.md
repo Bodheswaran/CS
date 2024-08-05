@@ -20,9 +20,9 @@ _**Catalog Scanner has been ported to Python3**. The Python3.12 codebase is avai
 Alternatively, your can install the `CS` python module with `pip`. This will create a link for `cs` in your PATH. 
 
 ```
-
+git clone https://github.com/Bodheswaran/CS.git
 cd /CS
-python3 -m pip install .
+python3 vs.py
 ```
 
 ### Docker Support
