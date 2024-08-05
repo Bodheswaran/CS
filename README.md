@@ -13,3 +13,23 @@ _**Catalog Scanner has been ported to Python3**. The Python3.12 codebase is avai
 ## Requirements
 - **Python 3.12**
 - Windows
+-kali Linux
+
+## Installation
+
+Alternatively, your can install the `CS` python module with `pip`. This will create a link for `cs` in your PATH. 
+
+```
+
+cd /CS
+python3 -m pip install .
+```
+
+### Docker Support
+Under development.
+
+## Contribution
+- Create your feature branch: `git checkout -b my-new-feature`
+- Commit your changes: `git commit -am 'Add some feature'`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request.
